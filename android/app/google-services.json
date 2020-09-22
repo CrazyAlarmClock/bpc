@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "5519277804",
+    "firebase_url": "https://bpcproject-84a5b.firebaseio.com",
+    "project_id": "bpcproject-84a5b",
+    "storage_bucket": "bpcproject-84a5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5519277804:android:b75df6fcb034036f0fafc9",
+        "android_client_info": {
+          "package_name": "com.bpc.bpc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5519277804-mj4nqlkl6168meh0eufpt902ivad50th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHDiE__L-LqiA28WUgd2sMKDhue3Jd4Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5519277804-mj4nqlkl6168meh0eufpt902ivad50th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

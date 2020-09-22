@@ -96,9 +96,9 @@ class CustomCard extends StatelessWidget {
                   padding: const EdgeInsets.symmetric(
                       horizontal: 20.0, vertical: 2.0),
                   child: Text(
-                    'Номер транзакции: ' + document['sum'].toString() ?? 'NULLLL',
+                    'Сумма: ' + document['sum'].toString() ?? 'NULLLL',
                     style: TextStyle(
-                        fontWeight: FontWeight.normal, fontSize: 16.0),
+                        fontWeight: FontWeight.normal, fontSize: 14.0),
                   ),
                 ),
                 SizedBox(height: 15),

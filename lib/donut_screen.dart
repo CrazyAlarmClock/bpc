@@ -44,8 +44,9 @@ class _PieOutsideLabelChartState extends State<PieOutsideLabelChart> {
 
   List<Color> colorList = [
     Colors.yellow,
-    Colors.green,
     Colors.red,
+    Colors.green,
+
   ];
 
 

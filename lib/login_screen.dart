@@ -47,7 +47,7 @@ class _LoginPageState extends State<LoginPage> {
           ),
           FlatButton(
             onPressed: () {
-              if (password.toString() == '1') {
+              if (password.toString() == 'pass1') {
                 Navigator.pushReplacement(
                     context,
                     MaterialPageRoute(

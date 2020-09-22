@@ -47,11 +47,11 @@ class _HomePageState extends State<HomePage> {
 class CustomCard extends StatelessWidget {
   CustomCard({@required this.document});
 
-  Color statusColor = Colors.green;
 
   final DocumentSnapshot document;
   @override
   Widget build(BuildContext context) {
+    Color statusColor = Colors.green;
 
     if(document['type'] == 'Перевод'){
       statusColor = Colors.yellow;
